@@ -2,7 +2,7 @@
 ## Connect me on.
 [`linkedin`](https://www.linkedin.com/in/asbaniruddhsingh/)[`Twitter`](https://twitter.com/asb_Aniruddh97)    [`Gmail`](asb.aniruddh.singh@gmail.com)    [`linkedin`](https://www.linkedin.com/in/asbaniruddhsingh/)    [`showwcase`](https://www.showwcase.com/ann1997)    [`freelancer`](https://www.freelancer.com/u/a1nn1997)
 
-![](https://profile-counter.glitch.me/{a1nn1997}/count.svg)
+![`Visitor Count`](https://profile-counter.glitch.me/{a1nn1997}/count.svg)
 - 🔭 I’m CS enthusiast looking for open source development opportunities and working with start-ups. 
 - 🌱 I’m currently Mastering 
 
