@@ -1,24 +1,27 @@
 ### Hey, this is Aniruddh Singh or Ann 👋
 ## Connect me on.
-[`linkedin`](https://www.linkedin.com/in/asbaniruddhsingh/)[`Twitter`](https://twitter.com/asb_Aniruddh97)    [`Gmail`](asb.aniruddh.singh@gmail.com)    [`linkedin`](https://www.linkedin.com/in/asbaniruddhsingh/)    [`showwcase`](https://www.showwcase.com/ann1997)    [`freelancer`](https://www.freelancer.com/u/a1nn1997)
+[`linkedin`](https://www.linkedin.com/in/asbaniruddhsingh/)[`Twitter`](https://twitter.com/asb_Aniruddh97)    [`Gmail`](asb.aniruddh.singh@gmail.com)       [`showwcase`](https://www.showwcase.com/ann1997)    
 
 ![`Visitor Count`](https://profile-counter.glitch.me/{a1nn1997}/count.svg)
-- 🔭 I’m CS enthusiast and Full Stack Engineer looking for open source development opportunities and working with start-ups. 
-- 🌱 I’m currently Mastering 
+- 🔭 I’m a Full Stack Engineer and all rounder tech-stack agnostic software developer looking for open source development opportunities and working with start-ups. 
+- 🌱 I’m currently Works with 
 
 ## 🚀 Technologies such as :
 
 ## Languages ⚡
 
-`PYTHON` `JAVA`  `JavaScript`
+`PYTHON` `JAVA`  `JavaScript` `go` `solidity`
 
 Full Stack Developer 💻
 
-`Django` `NODEJS` `REACT` `Next` `CSS5` `HTML3` `MONGODB` `EXPRESSJS` `BootStrap` `Material UI` `Chakra UI`
+`Django` `golang`  `nodejs` `React` `Nextjs` `Spring` `SpringBoot` `Angular`
+all Major Relational and NoSql Databases
+`MongoDB` `Redis` `Postgres` `Mysql` `AWS RDS` `S3` `DynamoDB`
+
 
 DEVOPS ❤ 
 
-`DOCKER` `KUBERNETES` `GIT` `GITHUB` `LINUX`
+`DOCKER` `KUBERNETES` `GIT` `LINUX`
 
 CLOUD ☁
 
