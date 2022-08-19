@@ -12,18 +12,20 @@
 
 `PYTHON` `JAVA`  `JavaScript` `go` `solidity`
 
-Full Stack Developer 💻
+# Full Stack Developer 💻
 
 `Django` `golang`  `nodejs` `React` `Nextjs` `Spring` `SpringBoot` `Angular`
-all Major Relational and NoSql Databases
+
+# all Major Relational and NoSql Databases
+
 `MongoDB` `Redis` `Postgres` `Mysql` `AWS RDS` `S3` `DynamoDB`
 
 
-DEVOPS ❤ 
+# DEVOPS ❤ 
 
-`DOCKER` `KUBERNETES` `GIT` `LINUX`
+`DOCKER` `KUBERNETES` `GIT` `LINUX` `Aws Lambda` `ECS` `Fargate` `EC2`
 
-CLOUD ☁
+# CLOUD ☁
 
 `AMAZON AWS `
 
