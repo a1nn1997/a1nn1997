@@ -23,7 +23,7 @@
 
 # DEVOPS ❤ 
 
-`DOCKER` `KUBERNETES` `GIT` `LINUX` `Aws Lambda` `ECS` `Fargate` `EC2`
+`DOCKER` `KUBERNETES` `GIT` `LINUX` `Aws Lambda` `ECS` `Fargate` `EC2` `Ansible`
 
 # CLOUD ☁
 
