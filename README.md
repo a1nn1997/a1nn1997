@@ -10,15 +10,15 @@
 
 ## Languages ⚡
 
-`PYTHON` `JAVA`  `JavaScript` `go` `solidity`
+`PYTHON` `JAVA`  `JavaScript` `go` `solidity` `rust`
 
 # Full Stack Developer 💻
 
-`Django` `golang`  `nodejs` `React` `Nextjs` `Spring` `SpringBoot` `Angular`
+`FastAPI` `LangChain` `Django` `golang`  `nodejs` `React` `Nextjs` `Angular` `AWS Lambda` `AWS Fargate` 
 
 # all Major Relational and NoSql Databases
 
-`MongoDB` `Redis` `Postgres` `Mysql` `AWS RDS` `S3` `DynamoDB`
+`MongoDB` `Redis` `Postgres` `Mysql` `AWS RDS` `S3` `DynamoDB` `GCP CloudSQL` `RabbitMQ` `Apache AirFlow` `DuckDB` `Oracle` `GBQ` `AWS DynamoDB` `SnowFlake` `Google Cloud Dataflow`
 
 
 # DEVOPS ❤ 
@@ -27,7 +27,16 @@
 
 # CLOUD ☁
 
-`AMAZON AWS `
+`AMAZON AWS ` `GCP`
+
+
+# Monitoring 🖥️
+
+`ELK` `Grephana` `Loki` `Tempo`
+
+# Cyber Security 🛡️
+
+`SCA tool Mend` `SAST tool CodeAnt, SonarCloud` `Dast BurpSuite Pynt` `VAPT penetration Testing` `SCC SanerNow CloudFlare` 
 
 ## 📈Stats
 
